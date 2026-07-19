@@ -13,15 +13,13 @@
 - 🧪 Outside my day job, I'm building **On The Menu** - onthemenu.io
 - 📱 Documenting the build-in-public journey on TikTok, one dev story at a time
 
----
-
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/danieljjones98">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- <a href="REPLACE_WITH_YOUR_INSTAGRAM_URL">
+   <a href="REPLACE_WITH_YOUR_INSTAGRAM_URL">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
+  </a> 
 </p> -->
 
 ---
