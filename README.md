@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer • Java/Spring by day, LLM tinkerer by night 🌙</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F79B58&background=E728FF00&width=435&lines=Building+products+that+customers+will+love;Documenting+the+journey;Learning+by+breaking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F79B58&background=E728FF00&width=435&lines=Building+products+customers+love;Documenting+the+journey;Learning+by+breaking" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
